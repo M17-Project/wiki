@@ -97,6 +97,14 @@ If everything compiles as expected, you are ready to flash.
 
 ### Flash the firmware
 
+Firstly, `STOP` the running Pi-Star services. Not doing so will block stm32flash from being able to access the UART.
+
+```bash
+sudo pistar-watchdog.service stop
+sudo systemctl stop mmdvmhost.timer
+sudo systemctl stop mmdvmhost.service
+```
+
 To flash the new firmware to the board, the board must be placed in "bootloader" mode. To enable this:
 
 - Place a jumper across J14 (labeled `LOAD`) on the modem board
@@ -114,7 +122,7 @@ This process can take a few minutes to complete. While the board is being flashe
 
 > Due to the way that the Makefile for the firmware is written, the flashing process may try to run twice, throwing an error after the board restarts at the end of the first flashing process. This error can be ignored.
 
-After the board restarts, the HB LED should be flashing slowly.
+After the board restarts, the HB LED should be flashing slowly. You can now restart the NanoPi.
 
 ---
 
