@@ -46,7 +46,7 @@ sudo apt-get update
 sudo apt-get install git gcc-arm-none-eabi gdb-arm-none-eabi libstdc++-arm-none-eabi-newlib libnewlib-arm-none-eabi
 ```
 
-### **OPTIONAL** - Update stm32flash to the latest availble version
+### **OPTIONAL** - Update stm32flash to the latest available version
 
 ```bash
 cd ~
