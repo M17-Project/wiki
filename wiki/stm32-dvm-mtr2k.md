@@ -39,11 +39,11 @@ As shipped, the SD card in the NanoPi runs an older version of the Pi-Star softw
 - Update the operating system and get the needed tools for retrieving the sources and compiling them.
 
 ```bash
-sudo apt-get update
+sudo apt update
 ```
 
 ```bash
-sudo apt-get install git gcc-arm-none-eabi gdb-arm-none-eabi libstdc++-arm-none-eabi-newlib libnewlib-arm-none-eabi
+sudo apt install git gcc-arm-none-eabi gdb-multiarch libstdc++-arm-none-eabi-newlib libnewlib-arm-none-eabi
 ```
 
 ### **OPTIONAL** - Update stm32flash to the latest available version
