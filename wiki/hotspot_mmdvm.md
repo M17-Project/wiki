@@ -32,7 +32,7 @@ The newest firmware can always be found on GitHub.
 
 ```bash
 cd ~
-git clone https://github.com/juribeparada/MMDVM_HS
+git clone [https://github.com/g4klx/MMDVM_HS](https://github.com/g4klx/MMDVM_HS)
 cd MMDVM_HS/
 git submodule init
 git submodule update
