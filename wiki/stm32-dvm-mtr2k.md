@@ -22,7 +22,7 @@ It is also important to know a functioning MMDVM M17 system consists of at least
 2. A recent version of the **MMDVMHost** program
 3. The gateway program **M17Gateway**, which connects the controller to the reflectors
 
-As shipped, the SD card in the NanoPi runs an older version of the Pi-Star software. It is not possible to run this version of Pi-Star with the updated version (v1.6.0) of the MMDVM firmware. Work is being done to hopefully rectify this, or in the meantime, WPSD / W0CHP Pi-Star Dash can be used.
+As shipped, the SD card in the NanoPi runs an older version of the Pi-Star software; with very outdated gateways and binaries. WPSD can (and should) be used instead.
 
 ## Updating the modem firmware
 
@@ -126,12 +126,10 @@ After the board restarts, the HB LED should be flashing slowly. You can now rest
 
 ---
 
-## **OPTIONAL** Update Pi-Star to W0CHP Pi-Star Dash
+## **OPTIONAL** Migrate Pi-Star to WPSD
 
-Updating Pi-Star to include the latest binaries for use with MMDVM firmware v1.6.0+ is outside the scope of this document. However, you can update Pi-Star with W0CHP Pi-Star Dash from the installed version of Pi-Star that ships with the SD card on the STM32-DVM-MTR2K.
+Updating Pi-Star to include the latest binaries for use with MMDVM firmware v1.6.0+ is outside the scope of this document. However, you can intall WPSD...
 
-> You must first update the Pi-Star install on the SD card to at least v4.1.6 before installing W0CHP Pi-Star Dash. You may have to run the Pi-Star update a few times.
+Follow the instructions found at [https://wpsd.radio](https://wpsd.radio/) to update Pi-Star to the latest binaries and dashboard configuration. 
 
-Follow the instructions found at [https://w0chp.net/w0chp-pistar-dash/](https://w0chp.net/w0chp-pistar-dash/) to update Pi-Star to the latest binaries and dashboard configuration. 
-
-When configuring W0CHP Pi-Star Dash to use the updated STM32-DVM-MTR2K, use the modem option `STM32-DVM-MTR2k (GPIO v3+ 500000 baud)`. All other configuration options can be set as normally on Pi-Star.
+When configuring WPSD to use the updated STM32-DVM-MTR2K, use the modem option `STM32-DVM-MTR2k (GPIO v3+ 500000 baud)`. All other configuration options can be set as normal.
