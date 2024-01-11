@@ -130,6 +130,6 @@ After the board restarts, the HB LED should be flashing slowly. You can now rest
 
 Updating Pi-Star to include the latest binaries for use with MMDVM firmware v1.6.0+ is outside the scope of this document. However, you can intall WPSD...
 
-Follow the instructions found at [https://wpsd.radio](https://wpsd.radio/) to update Pi-Star to the latest binaries and dashboard configuration. 
+Follow the instructions found at [https://wpsd.radio](https://wpsd.radio/) to upgrade to the latest binaries and dashboard configuration. 
 
 When configuring WPSD to use the updated STM32-DVM-MTR2K, use the modem option `STM32-DVM-MTR2k (GPIO v3+ 500000 baud)`. All other configuration options can be set as normal.
