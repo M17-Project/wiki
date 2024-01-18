@@ -14,7 +14,7 @@
 | CDM 750/1250/1550 | ✔️ | ✔️ | Configure codeplug to use "flat audio" available on rear accessory connector. |
 | GM300             | ✔️ | ✔️ | Demod out is inverted. Adding a 100k resistor is needed for the RX to work. Move jumper JU551 to pos. A. |
 | GM900             | ❓ | ❓ |            |
-| GM1200            | ✔️ | ✔️ | Demod out is not inverted. No HW mod necessary for RX. |
+| GM1200            | ✔️ | ✔️ | No HW mod necessary for RX. |
 
 ## Yaesu
 
@@ -32,6 +32,7 @@
 | Model       | RX | TX | Comments |
 | ----------- | -- | -- | -------- |
 | IC-706mkIIg | ✔️ | ✔️ | |
+| ID-880H     | ✔️ | ✔️ | inverted TX and RX (reported by W9RNR) |
 
 ## TYT
 
