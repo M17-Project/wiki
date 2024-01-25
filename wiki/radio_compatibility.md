@@ -22,10 +22,10 @@
 | ------- | -- | -- | -------- |
 | FT-817  | ✔️ | ✔️ | Tested with [STM32-DVM-USB](http://www.repeater-builder.com/products/stm32-dvm.html) and latest [MMDVM Firmware](https://github.com/g4klx/MMDVM) using [M17Client](https://github.com/g4klx/M17Client). No modification needed. |
 | FT-818  | ✔️ | ✔️ | |
-| FT-857 | ✔️ | ✔️ | D and non-D version tested with Module17 |
-| FT-897 | ✔️ | ✔️ | Tested with Module17 |
+| FT-857(D) | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
+| FT-897 | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
 | FT-991A | ✔️ | ✔️ | Tested with Module17 |
-| FTM-500DE  | ✔️ | ✔️ | Tested with Module17 |
+| FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted |
 | FT-7800 | ✔️ | ✔️ | |
 | FT-8000 | ✔️ | ❓ | No modification needed. Use the 9600baud output at the TNC connector. |
 | FT-8900 | ✔️ | ✔️ | |
