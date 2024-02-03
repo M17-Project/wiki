@@ -26,7 +26,7 @@
 | FT-897 | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
 | FT-991A | ✔️ | ✔️ | Tested with Module17 |
 | FTM-100  | ✔️ | ✔️ | (reported by G4KLX)|
-| FTM-300  | ✔️ | ✔️ | (reported by G4KLX)|
+| FTM-300  | ✔️ | ✔️ | (reported by G4KLX) Phase settings: TX: Normal, RX: Normal |
 | FTM-400  | ✔️ | ✔️ | Tested with Module17 (by ON4BCY) |
 | FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted |
 | FT-7800 | ✔️ | ✔️ | |
