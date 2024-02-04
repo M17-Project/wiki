@@ -30,11 +30,11 @@
 | FTM-100  | ✔️ | ✔️ | (reported by G4KLX)|
 | FTM-300  | ✔️ | ✔️ | (reported by G4KLX) Phase settings: TX: Normal, RX: Normal |
 | FTM-400  | ✔️ | ✔️ | Tested with Module17 (by ON4BCY) |
-| FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted |
+| FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted (Only on 70cm) |
 | FT-7800 | ✔️ | ✔️ | |
 | FT-7900R | ✔️ | ✔️ | (reported by G4KLX)|
 | FT-8000 | ✔️ | ❓ | No modification needed. Use the 9600baud output at the TNC connector. |
-| FT-8900 | ✔️ | ✔️ | |
+| FT-8900 | ✔️ | ✔️ | Phase settings: TX: Normal, RX: Inverted (Only on 70cm) Reported by OE3TEC |
 | FTM-6000 | ✔️ | ✔️ | No modification needed. Use the 9600baud output at the TNC connector. |
 
 ## Icom
