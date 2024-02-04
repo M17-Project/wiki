@@ -12,7 +12,9 @@
 | Model             | RX | TX | Comments |
 | ----------------- | -- | -- | -------- | 
 | CDM 750/1250/1550 | ✔️ | ✔️ | Configure codeplug to use "flat audio" available on rear accessory connector. |
+| DM1400 | ✔️ | ✔️ |  Tested with Module17 - Phase settings: TX: Normal, RX: Normal  |
 | GM300             | ✔️ | ✔️ | Demod out is inverted. Adding a 100k resistor is needed for the RX to work. Move jumper JU551 to pos. A. |
+| GM380             | ✔️ | ✔️ | Tested with Module17 - Reported by OE1JTB |
 | GM900             | ❓ | ❓ |            |
 | GM1200            | ✔️ | ✔️ | No HW mod necessary for RX. |
 
