@@ -12,7 +12,9 @@
 | Model             | RX | TX | Comments |
 | ----------------- | -- | -- | -------- | 
 | CDM 750/1250/1550 | ✔️ | ✔️ | Configure codeplug to use "flat audio" available on rear accessory connector. |
+| DM1400 | ✔️ | ✔️ |  Tested with Module17 - Phase settings: TX: Normal, RX: Normal  |
 | GM300             | ✔️ | ✔️ | Demod out is inverted. Adding a 100k resistor is needed for the RX to work. Move jumper JU551 to pos. A. |
+| GM340 / GM360 / GM380 | ✔️ | ✔️ | Phase settings: TX: Inverted, RX: Inverted. Tested with Module17 - Reported by OE1JTB & OE3TEC |
 | GM900             | ❓ | ❓ |            |
 | GM1200            | ✔️ | ✔️ | No HW mod necessary for RX. |
 
@@ -26,13 +28,13 @@
 | FT-897 | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
 | FT-991A | ✔️ | ✔️ | Tested with Module17 |
 | FTM-100  | ✔️ | ✔️ | (reported by G4KLX)|
-| FTM-300  | ✔️ | ✔️ | (reported by G4KLX) Phase settings: TX: Normal, RX: Normal |
-| FTM-400  | ✔️ | ✔️ | Tested with Module17 (by ON4BCY) |
-| FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted |
+| FTM-300  | ✔️ | ✔️ | (reported by G4KLX) Phase settings: 70cm: TX: Normal, RX: Normal, 2m: TX: Inverted, RX: Inverted |
+| FTM-400  | ✔️ | ✔️ | Tested with Module17 (by ON4BCY) Phase settings: 70cm: TX: Normal, RX: Normal, 2m: TX: Inverted, RX: Inverted|
+| FTM-500DE  | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Normal, RX: Inverted (Only on 70cm) |
 | FT-7800 | ✔️ | ✔️ | |
 | FT-7900R | ✔️ | ✔️ | (reported by G4KLX)|
 | FT-8000 | ✔️ | ❓ | No modification needed. Use the 9600baud output at the TNC connector. |
-| FT-8900 | ✔️ | ✔️ | |
+| FT-8900 | ✔️ | ✔️ | Phase settings: TX: Normal, RX: Inverted (Only on 70cm) Reported by OE3TEC |
 | FTM-6000 | ✔️ | ✔️ | No modification needed. Use the 9600baud output at the TNC connector. |
 
 ## Icom
