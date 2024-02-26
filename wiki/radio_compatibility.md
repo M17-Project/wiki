@@ -43,6 +43,7 @@
 | ----------- | -- | -- | -------- |
 | IC-706mkIIg | ✔️ | ✔️ | |
 | ID-880H     | ✔️ | ✔️ | inverted TX and RX (reported by W9RNR) |
+| IC-5060/6060| ✔️ | ✔️ | inverted TX. Supports the use of the internal speaker/microphone. See [this section](icf5060.md) |
 
 ## TYT
 
