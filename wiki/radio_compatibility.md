@@ -46,6 +46,8 @@
 | ID-880H     | ✔️ | ✔️ | inverted TX and RX (reported by W9RNR) |
 | IC-5060/6060| ✔️ | ✔️ | inverted TX. Supports the use of the internal speaker/microphone. See [this section](icf5060_3060.md) |
 | IC-3060/4060| ✔️ | ✔️ | inverted TX. Supports the use of the internal speaker/microphone. See [this section](icf5060_3060.md) |
+| IC-e2820    | ✔️ | ✔️ | inverted TX and RX (reported by ON4MOD) |
+| IC-9100     | ✔️ | ✔️ | inverted TX and RX (reported by ON4MOD) |
 
 ## TYT
 
