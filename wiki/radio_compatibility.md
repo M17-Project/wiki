@@ -6,6 +6,7 @@
 | ---------------- | -- | -- | ----------------------- |
 | TM-D710 (A/G/GA) | ✔️ | ✔️ | TX needs to be inverted |
 | TM-V71A          | ✔️ | ✔️ | TX needs to be inverted |
+| TM-G707A         | ✔️ | ✔️ | Tested with BI7JTA V3F4 and Repeater Builder STM32V4.  Requires very high Tx drive level. |
 
 ## Motorola
 
