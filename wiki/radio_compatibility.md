@@ -27,7 +27,8 @@
 | FT-818  | ✔️ | ✔️ | |
 | FT-857(D) | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
 | FT-897 | ✔️ | ✔️ | Tested with Module17. Phase settings: TX: Inverted, RX: Inverted |
-| FT-991A | ✔️ | ✔️ | Tested with Module17 |
+| FT-991A | ✔️ | ✔️ | Tested with Module17 | 
+| FT-991A | ✔️ | ✔️ | (reported by 2W0APD) Phase settings: TX:Inverted, RX: Normal | 
 | FTM-100  | ✔️ | ✔️ | (reported by G4KLX)|
 | FTM-200  | ✔️ | ✔️ | Reported by KD2YFY|
 | FTM-300  | ✔️ | ✔️ | (reported by G4KLX) Phase settings: 70cm: TX: Normal, RX: Normal, 2m: TX: Inverted, RX: Inverted |
