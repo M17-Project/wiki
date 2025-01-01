@@ -1,3 +1,6 @@
+> [!WARNING]
+> Contents has been moved to https://wiki.m17foundation.org.
+
 # Welcome to the M17 Project Wiki
 
 M17 is a community of open source developers and radio enthusiasts. We're building understandable systems in support of the hackers and experimenters' history of ham radio.
